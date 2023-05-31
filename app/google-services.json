@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702803044560",
+    "firebase_url": "https://unite-e1402-default-rtdb.firebaseio.com",
+    "project_id": "unite-e1402",
+    "storage_bucket": "unite-e1402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702803044560:android:e4d70be206ccd26f8f16d5",
+        "android_client_info": {
+          "package_name": "com.n3dev.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702803044560-0f25cuq0mbbc2liatb4kit75isu9pthg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe60eID-m-J5B9W-pTQbDR5rN9WpWWvMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702803044560-08qsddnl93ispfvq0mfih3eqvkr3ulms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
